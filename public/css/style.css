@@ -1,0 +1,69 @@
+
+.container{
+    margin:40px auto;
+}
+
+.jumbotron{
+    padding:30px 0 100px 0;
+    background:#fff;
+}
+
+.glyphicon-th-list {
+    color:#555;
+    width:10px;
+    height:10px;
+    margin:0 30px 0 0;
+}
+
+.glyphicon-chevron-right{
+    color:green;
+    width:10px;
+    height:10px;
+    margin:0 30px 0 0;
+}
+
+.glyphicon-ok{
+    color:green;
+    margin:0 20px 0 0;
+}
+
+.glyphicon-remove{
+    color:red;
+    margin:0 20px 0 0;
+}
+
+ul{
+    padding:0;
+    margin:0;
+}
+
+h2{
+    border-bottom:2px solid #555;
+    padding:20px;
+    margin:0;
+}
+
+.form-create{
+    padding:30px;
+}
+
+li{
+    list-style:none;
+}
+
+.entry{
+    padding:20px;
+    height:80px;
+    line-height: 45px;
+    border-bottom:1px solid #555;
+}
+
+#btn-group{
+    float:right;
+    clear:both;
+}
+
+.create{
+    margin:30px 20px 0 0;
+    float:right;
+}
