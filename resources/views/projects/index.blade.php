@@ -30,6 +30,5 @@
     </p>
 		
    </div>
-
 </div> <!-- /container -->
 @endsection
